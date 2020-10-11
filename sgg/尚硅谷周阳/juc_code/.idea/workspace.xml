@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="867d4b9e-86b3-4e0b-b8d8-24f31f89f224" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Develop\repository\repository" />
+        <option name="mavenHome" value="D:\Develop\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Develop\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1igkv8NKJfexeODcNgVz6WnN6Pt" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../Code/step5/work/fancy-music-user" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Application.BlockingQueueDemo">
+    <configuration name="BlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.juc.queue.BlockingQueueDemo" />
+      <module name="juc_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.juc.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.juc.CountDownLatchDemo" />
+      <module name="juc_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclinBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.juc.CyclinBarrierDemo" />
+      <module name="juc_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.juc.ReadWriteLockDemo" />
+      <module name="juc_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.juc.SemaphoreDemo" />
+      <module name="juc_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlockingQueueDemo" />
+        <item itemvalue="Application.ReadWriteLockDemo" />
+        <item itemvalue="Application.SemaphoreDemo" />
+        <item itemvalue="Application.CyclinBarrierDemo" />
+        <item itemvalue="Application.CountDownLatchDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="867d4b9e-86b3-4e0b-b8d8-24f31f89f224" name="Default Changelist" comment="" />
+      <created>1602336850926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602336850926</updated>
+      <workItem from="1602336852020" duration="4285000" />
+      <workItem from="1602379077730" duration="16264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1602402096364">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1602402096364" />
+    <state width="1478" height="262" key="GridCell.Tab.0.bottom" timestamp="1602432050555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602432050555" />
+    <state width="1478" height="262" key="GridCell.Tab.0.center" timestamp="1602432050555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1602432050555" />
+    <state width="1478" height="262" key="GridCell.Tab.0.left" timestamp="1602432050555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1602432050555" />
+    <state width="1478" height="262" key="GridCell.Tab.0.right" timestamp="1602432050555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1602432050555" />
+    <state width="1478" height="262" key="GridCell.Tab.1.bottom" timestamp="1602432050555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602432050555" />
+    <state width="1478" height="262" key="GridCell.Tab.1.center" timestamp="1602432050555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1602432050555" />
+    <state width="1478" height="262" key="GridCell.Tab.1.left" timestamp="1602432050555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1602432050555" />
+    <state width="1478" height="262" key="GridCell.Tab.1.right" timestamp="1602432050555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1602432050555" />
+    <state x="272" y="193" width="991" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602406030764">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="193" width="991" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1602406030764" />
+    <state x="425" y="217" key="run.anything.popup" timestamp="1602403451641">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="217" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1602403451641" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1602407811989">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602407811989" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
