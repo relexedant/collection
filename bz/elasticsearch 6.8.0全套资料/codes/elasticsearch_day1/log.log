@@ -1,0 +1,17 @@
+2020-07-03 16:52:32.897  INFO 29960 --- [restartedMain] com.baizhi.ElasticsearchDay1Application  : Starting ElasticsearchDay1Application on chenyannandeMacBook-Pro.local with PID 29960 (/Users/chenyannan/Desktop/framework/codes/elasticsearch_day1/target/classes started by chenyannan in /Users/chenyannan/Desktop/framework/codes/elasticsearch_day1)
+2020-07-03 16:52:32.901  INFO 29960 --- [restartedMain] com.baizhi.ElasticsearchDay1Application  : No active profile set, falling back to default profiles: default
+2020-07-03 16:52:32.964  INFO 29960 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-03 16:52:32.964  INFO 29960 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-03 16:52:34.222  INFO 29960 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8989 (http)
+2020-07-03 16:52:34.235  INFO 29960 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-03 16:52:34.237  INFO 29960 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-03 16:52:34.288  INFO 29960 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/es]     : Initializing Spring embedded WebApplicationContext
+2020-07-03 16:52:34.289  INFO 29960 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1325 ms
+2020-07-03 16:52:34.462  INFO 29960 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-03 16:52:34.581  INFO 29960 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-03 16:52:34.619  INFO 29960 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8989 (http) with context path '/es'
+2020-07-03 16:52:34.629  INFO 29960 --- [restartedMain] com.baizhi.ElasticsearchDay1Application  : Started ElasticsearchDay1Application in 2.158 seconds (JVM running for 2.868)
+2020-07-03 16:53:01.317  INFO 29960 --- [http-nio-8989-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/es]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-03 16:53:01.318  INFO 29960 --- [http-nio-8989-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-03 16:53:01.347  INFO 29960 --- [http-nio-8989-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 29 ms
+2020-07-03 16:55:58.332  INFO 29960 --- [Thread-121] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

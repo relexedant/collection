@@ -1,0 +1,43 @@
+
+技术选型
+	
+	springboot + mybatis + bootstrap + jqgrid + ajax 
+	+ elasticsearch(用到在整合) + redis(用到在整合) 
+
+项目编码: UTF-8
+项目名称: poem
+数据库名称: poem
+项目中包结构:
+		src/main/java
+		com.baizh.xxx
+				 .util   			工具包
+				 .entity 			实体类
+				 .dao	 			dao包
+				 .service			业务包
+				 .controller		控制器
+				 .elasticsearch.dao esDAO接口包
+				 .config 			项目配置包
+				 .....
+
+		src/main/resources
+				application.properties	  springboot配置文件
+				com/baizhi/mapper/*.xml   mapper配置文件
+				webapp
+					boot       bootstrap相关css
+					index.jsp  前台搜索
+					back.jsp   后台管理
+
+
+
+需求:
+	1.前台搜索  (根据输入条件进行分词查询  同时检索结果必须存在高亮处理)
+	2.后台功能
+		a.jqgrid中分页展示古诗词数据(数据库 mysql)  增删改查
+		b.基于数据库中数据重建es索引库
+		c.删除所有文档
+		d.关键词记录
+		e.远程词典操作
+
+
+
+
