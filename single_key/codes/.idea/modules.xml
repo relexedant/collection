@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestWeakReference/TestWeakReference.iml" filepath="$PROJECT_DIR$/TestWeakReference/TestWeakReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadOrder/loadOrder.iml" filepath="$PROJECT_DIR$/loadOrder/loadOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_equals/string_equals.iml" filepath="$PROJECT_DIR$/string_equals/string_equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadlocaldemo/threadlocaldemo.iml" filepath="$PROJECT_DIR$/threadlocaldemo/threadlocaldemo.iml" />
+    </modules>
+  </component>
+</project>
